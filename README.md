@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+title: YOU WANT TO EARN A CHECK? Come to my page, dhameerb's page!
+description: The only concern of this website is the moolah. No really, only the money. Period.
 
 You can use the [editor on GitHub](https://github.com/dhameerb/dhameerb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
